@@ -1,3 +1,5 @@
+//Handle background -Tyler
+
 //===== PAGE SAVE =====
 chrome.commands.onCommand.addListener((command) => {
   switch (command) {
